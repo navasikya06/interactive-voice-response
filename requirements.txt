@@ -1,0 +1,6 @@
+sounddevice==0.4.6
+soundfile==0.10.3.post1
+numpy==1.21.5
+whisper==0.1.0
+ollama==1.2.3
+transformers==4.12.0
