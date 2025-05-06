@@ -1,7 +1,6 @@
 # Interactive Voice Response
 
-This repo consists of an audio folder, a jupyter notebook, python file, a screenshot of me using CoPilot, a word doc of my answers to the assignment part 1, and a requirements file.
-
+This repo consists of an audio folder, a jupyter notebook, and a python file.
 
 The core of this repo is an Interactive Voice Response (IVR) app that plays audio, records reply, identifies intent, and replies in response to the intent.
 
